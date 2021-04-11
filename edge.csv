@@ -1,8 +1,0 @@
-from,to,quantity,knowing,weight
-Kassy,Vicky,2,3,3
-Thomas,Vicky,1,2,3
-Adriana,Vicky,1,3,3
-Eric,Vicky,2,2,3
-Kassy,Thomas,nA,nA,1
-Kassy,Eric,nA,nA,1
-Eric ,Thomas,nA,nA,1
